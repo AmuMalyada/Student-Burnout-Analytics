@@ -1,0 +1,14 @@
+{
+  "database": "data/processed/mindpulse.sqlite",
+  "unified_rows": 31336,
+  "unified_columns": 26,
+  "datasets_loaded": [
+    "sleep_lifestyle",
+    "student_depression",
+    "student_mental_health",
+    "student_performance",
+    "student_stress"
+  ],
+  "datasets_pending_manual_download": [],
+  "ethics_notice": "MindPulse provides population-level educational analytics only and must not be used to diagnose individuals."
+}

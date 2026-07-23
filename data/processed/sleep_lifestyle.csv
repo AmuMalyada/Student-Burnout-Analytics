@@ -1,0 +1,375 @@
+source_person_id,gender,age,department,sleep_hours,sleep_quality,physical_activity_minutes,stress_score,bmi_category,blood_pressure,heart_rate,daily_steps,sleep_disorder,dataset_source,age_group,sleep_deficit_score,burnout_risk_index,risk_segment
+1,Male,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,,sleep_lifestyle,26-30,12.857142857142861,36.43,Moderate
+2,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,,sleep_lifestyle,26-30,11.428571428571425,55.71,Moderate
+3,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,,sleep_lifestyle,26-30,11.428571428571425,55.71,Moderate
+4,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,sleep_lifestyle,26-30,15.714285714285708,57.86,Moderate
+5,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,sleep_lifestyle,26-30,15.714285714285708,57.86,Moderate
+6,Male,28,Software Engineer,5.9,4,30,8,Obese,140/90,85,3000,Insomnia,sleep_lifestyle,26-30,15.714285714285708,57.86,Moderate
+7,Male,29,Teacher,6.3,6,40,7,Obese,140/90,82,3500,Insomnia,sleep_lifestyle,26-30,10.000000000000002,45.0,Moderate
+8,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+9,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+10,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+11,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,,sleep_lifestyle,26-30,12.857142857142861,56.43,Moderate
+12,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+13,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,,sleep_lifestyle,26-30,12.857142857142861,56.43,Moderate
+14,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,,sleep_lifestyle,26-30,14.285714285714285,57.14,Moderate
+15,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,,sleep_lifestyle,26-30,14.285714285714285,57.14,Moderate
+16,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,,sleep_lifestyle,26-30,14.285714285714285,57.14,Moderate
+17,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea,sleep_lifestyle,26-30,7.142857142857142,43.57,Moderate
+18,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,Sleep Apnea,sleep_lifestyle,26-30,14.285714285714285,57.14,Moderate
+19,Female,29,Nurse,6.5,5,40,7,Normal Weight,132/87,80,4000,Insomnia,sleep_lifestyle,26-30,7.142857142857142,43.57,Moderate
+20,Male,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+21,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+22,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+23,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+24,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+25,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+26,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+27,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+28,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+29,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+30,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,26-30,0.0,30.0,Lower
+31,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Sleep Apnea,sleep_lifestyle,26-30,8.571428571428566,44.29,Moderate
+32,Female,30,Nurse,6.4,5,35,7,Normal Weight,130/86,78,4100,Insomnia,sleep_lifestyle,26-30,8.571428571428566,44.29,Moderate
+33,Female,31,Nurse,7.9,8,75,4,Normal Weight,117/76,69,6800,,sleep_lifestyle,31-40,0.0,10.0,Lower
+34,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,12.857142857142861,56.43,Moderate
+35,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+36,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,12.857142857142861,56.43,Moderate
+37,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,12.857142857142861,56.43,Moderate
+38,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+39,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+40,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+41,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+42,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+43,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+44,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+45,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+46,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+47,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+48,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+49,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+50,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,Sleep Apnea,sleep_lifestyle,31-40,0.0,30.0,Lower
+51,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,0.0,Lower
+52,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,0.0,Lower
+53,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+54,Male,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+55,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+56,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+57,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+58,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+59,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+60,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+61,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+62,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+63,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,11.428571428571425,55.71,Moderate
+64,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,11.428571428571425,55.71,Moderate
+65,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,11.428571428571425,55.71,Moderate
+66,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,11.428571428571425,55.71,Moderate
+67,Male,32,Accountant,7.2,8,50,6,Normal Weight,118/76,68,7000,,sleep_lifestyle,31-40,0.0,30.0,Lower
+68,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,Insomnia,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+69,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,,sleep_lifestyle,31-40,11.428571428571425,35.71,Moderate
+70,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,,sleep_lifestyle,31-40,11.428571428571425,35.71,Moderate
+71,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,12.857142857142861,56.43,Moderate
+72,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,12.857142857142861,56.43,Moderate
+73,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,12.857142857142861,56.43,Moderate
+74,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,12.857142857142861,56.43,Moderate
+75,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+76,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+77,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+78,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+79,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+80,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,,sleep_lifestyle,31-40,14.285714285714285,57.14,Moderate
+81,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,sleep_lifestyle,31-40,17.142857142857146,58.57,Moderate
+82,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,sleep_lifestyle,31-40,17.142857142857146,58.57,Moderate
+83,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,,sleep_lifestyle,31-40,4.285714285714283,22.14,Lower
+84,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,,sleep_lifestyle,31-40,4.285714285714283,22.14,Lower
+85,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+86,Female,35,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+87,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+88,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+89,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+90,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+91,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+92,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+93,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+94,Male,35,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,sleep_lifestyle,31-40,0.0,20.0,Lower
+95,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,Insomnia,sleep_lifestyle,31-40,0.0,10.0,Lower
+96,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+97,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+98,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+99,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+100,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+101,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+102,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+103,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+104,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Sleep Apnea,sleep_lifestyle,31-40,5.71428571428572,42.86,Moderate
+105,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea,sleep_lifestyle,31-40,0.0,10.0,Lower
+106,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Insomnia,sleep_lifestyle,31-40,5.71428571428572,42.86,Moderate
+107,Female,37,Nurse,6.1,6,42,6,Overweight,126/83,77,4200,,sleep_lifestyle,31-40,12.857142857142861,36.43,Moderate
+108,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+109,Male,37,Engineer,7.8,8,70,4,Normal Weight,120/80,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+110,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+111,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+112,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+113,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+114,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+115,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+116,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+117,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+118,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+119,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+120,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+121,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+122,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+123,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+124,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+125,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+126,Female,37,Nurse,7.5,8,60,4,Normal Weight,120/80,70,8000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+127,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+128,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+129,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+130,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+131,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+132,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+133,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+134,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+135,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+136,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+137,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+138,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+139,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+140,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+141,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+142,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+143,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+144,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,,sleep_lifestyle,31-40,0.0,10.0,Lower
+145,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,Sleep Apnea,sleep_lifestyle,31-40,0.0,20.0,Lower
+146,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,sleep_lifestyle,31-40,0.0,20.0,Lower
+147,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Insomnia,sleep_lifestyle,31-40,0.0,20.0,Lower
+148,Male,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia,sleep_lifestyle,31-40,7.142857142857142,43.57,Moderate
+149,Female,39,Lawyer,6.9,7,50,6,Normal Weight,128/85,75,5500,,sleep_lifestyle,31-40,1.4285714285714235,30.71,Lower
+150,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,,sleep_lifestyle,31-40,0.0,0.0,Lower
+151,Female,39,Accountant,8.0,9,80,3,Normal Weight,115/78,67,7500,,sleep_lifestyle,31-40,0.0,0.0,Lower
+152,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+153,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+154,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+155,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+156,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+157,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+158,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+159,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+160,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+161,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+162,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,,sleep_lifestyle,31-40,0.0,30.0,Lower
+163,Female,40,Accountant,7.2,8,55,6,Normal Weight,119/77,73,7300,,sleep_lifestyle,31-40,0.0,30.0,Lower
+164,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+165,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,,sleep_lifestyle,31-40,0.0,20.0,Lower
+166,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Insomnia,sleep_lifestyle,41-65,0.0,20.0,Lower
+167,Male,41,Engineer,7.3,8,70,6,Normal Weight,121/79,72,6200,,sleep_lifestyle,41-65,0.0,30.0,Lower
+168,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,,sleep_lifestyle,41-65,0.0,30.0,Lower
+169,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,,sleep_lifestyle,41-65,0.0,30.0,Lower
+170,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+171,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+172,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+173,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+174,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+175,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+176,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+177,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+178,Male,42,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+179,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+180,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+181,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+182,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+183,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+184,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+185,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,sleep_lifestyle,41-65,2.85714285714286,41.43,Moderate
+186,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,sleep_lifestyle,41-65,2.85714285714286,41.43,Moderate
+187,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,4.285714285714283,12.14,Lower
+188,Male,43,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+189,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,4.285714285714283,12.14,Lower
+190,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+191,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,4.285714285714283,12.14,Lower
+192,Male,43,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,8.571428571428566,44.29,Moderate
+193,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+194,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+195,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+196,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+197,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+198,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+199,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+200,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+201,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+202,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,sleep_lifestyle,41-65,0.0,20.0,Lower
+203,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,sleep_lifestyle,41-65,0.0,20.0,Lower
+204,Male,43,Engineer,6.9,6,47,7,Normal Weight,117/76,69,6800,,sleep_lifestyle,41-65,1.4285714285714235,40.71,Moderate
+205,Male,43,Engineer,7.6,8,75,4,Overweight,122/80,68,6800,,sleep_lifestyle,41-65,0.0,10.0,Lower
+206,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+207,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+208,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+209,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+210,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+211,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+212,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+213,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+214,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+215,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+216,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+217,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+218,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,,sleep_lifestyle,41-65,0.0,20.0,Lower
+219,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Sleep Apnea,sleep_lifestyle,41-65,0.0,20.0,Lower
+220,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Sleep Apnea,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+221,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+222,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,8.571428571428566,44.29,Moderate
+223,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+224,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,8.571428571428566,44.29,Moderate
+225,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+226,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+227,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+228,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+229,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+230,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+231,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+232,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+233,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+234,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+235,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+236,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+237,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,8.571428571428566,44.29,Moderate
+238,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+239,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+240,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,8.571428571428566,44.29,Moderate
+241,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+242,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+243,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,8.571428571428566,44.29,Moderate
+244,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+245,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+246,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+247,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,10.000000000000002,45.0,Moderate
+248,Male,44,Engineer,6.8,7,45,7,Overweight,130/85,78,5000,Insomnia,sleep_lifestyle,41-65,2.85714285714286,41.43,Moderate
+249,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,,sleep_lifestyle,41-65,8.571428571428566,44.29,Moderate
+250,Male,44,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+251,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,2.85714285714286,31.43,Lower
+252,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,2.85714285714286,31.43,Lower
+253,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+254,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+255,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+256,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,13.57,Lower
+257,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+258,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+259,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+260,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+261,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+262,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+263,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,,sleep_lifestyle,41-65,5.71428571428572,12.86,Lower
+264,Female,45,Manager,6.9,7,55,5,Overweight,125/82,75,5500,,sleep_lifestyle,41-65,1.4285714285714235,20.71,Lower
+265,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,sleep_lifestyle,41-65,0.0,20.0,Lower
+266,Female,48,Nurse,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,15.714285714285708,57.86,Moderate
+267,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,sleep_lifestyle,41-65,0.0,20.0,Lower
+268,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,,sleep_lifestyle,41-65,11.428571428571425,55.71,Moderate
+269,Female,49,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+270,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+271,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+272,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+273,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+274,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,11.428571428571425,55.71,Moderate
+275,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,11.428571428571425,55.71,Moderate
+276,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,11.428571428571425,55.71,Moderate
+277,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+278,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+279,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+280,Female,50,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+281,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+282,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+283,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+284,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+285,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+286,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+287,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+288,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+289,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+290,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+291,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+292,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+293,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+294,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+295,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+296,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+297,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+298,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+299,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+300,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+301,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+302,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+303,Female,51,Nurse,7.1,7,55,6,Normal Weight,125/82,72,6000,,sleep_lifestyle,41-65,0.0,30.0,Lower
+304,Female,51,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,14.285714285714285,57.14,Moderate
+305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,sleep_lifestyle,41-65,12.857142857142861,56.43,Moderate
+307,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+308,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,7.142857142857142,43.57,Moderate
+309,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,42.86,Moderate
+310,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,42.86,Moderate
+311,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,42.86,Moderate
+312,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,sleep_lifestyle,41-65,5.71428571428572,42.86,Moderate
+313,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+314,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+315,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+316,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Insomnia,sleep_lifestyle,41-65,0.0,0.0,Lower
+317,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+318,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+319,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+320,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+321,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+322,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+323,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+324,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+325,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+326,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+327,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+328,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+329,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+330,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+331,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+332,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+333,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+334,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+335,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+336,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+337,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+338,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+339,Female,54,Engineer,8.5,9,30,3,Normal,125/80,65,5000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+340,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,sleep_lifestyle,41-65,0.0,10.0,Lower
+341,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,sleep_lifestyle,41-65,0.0,10.0,Lower
+342,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+343,Female,56,Doctor,8.2,9,90,3,Normal Weight,118/75,65,10000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+344,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+345,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+346,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+347,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+348,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+349,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+350,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+351,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+352,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+353,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+354,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+355,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+356,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+357,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+358,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+359,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+360,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,,sleep_lifestyle,41-65,0.0,0.0,Lower
+361,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+362,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+363,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+364,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+365,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+366,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+367,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+368,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+369,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+370,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+371,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+372,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+373,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower
+374,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,sleep_lifestyle,41-65,0.0,0.0,Lower

@@ -1,0 +1,10 @@
+{
+  "downloads": {
+    "student_mental_health": "already_present_locally",
+    "student_depression": "already_present_locally",
+    "student_stress": "already_present_locally",
+    "sleep_lifestyle": "already_present_locally",
+    "student_performance": "already_present_locally"
+  },
+  "manual_downloads": {}
+}

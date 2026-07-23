@@ -1,10 +1,10 @@
-# MindPulse
+# Student Burnout Analytics
 
 ## Student Burnout & Mental Wellbeing Analytics Platform
 
-MindPulse is a production-style analytics portfolio project for university wellbeing planning. It combines real public student and lifestyle datasets into a conformed analytical model, creates SQL-based KPI views, and provides an educational machine-learning workflow for estimating a non-diagnostic Burnout Risk Index.
+It is a production-style analytics portfolio project for university wellbeing planning. It combines real public student and lifestyle datasets into a conformed analytical model, creates SQL-based KPI views, and provides an educational machine-learning workflow for estimating a non-diagnostic Burnout Risk Index.
 
-> MindPulse does not diagnose mental illness, predict individual clinical outcomes, or label individual students. All outputs are intended for aggregate, educational, and resource-planning use only.
+> Student Burnout Analytics does not diagnose mental illness, predict individual clinical outcomes, or label individual students. All outputs are intended for aggregate, educational, and resource-planning use only.
 
 ## Project Status
 
@@ -176,7 +176,7 @@ Recommended pages:
 
 ## Ethics
 
-MindPulse is designed around privacy, fairness, and responsible AI. It should support student-centered resource planning, not surveillance or punitive intervention. See `documentation/ETHICS.md`.
+Student Burnout Analytics is designed around privacy, fairness, and responsible AI. It should support student-centered resource planning, not surveillance or punitive intervention. See `documentation/ETHICS.md`.
 
 ## Future Improvements
 
